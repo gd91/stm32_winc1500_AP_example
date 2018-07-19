@@ -8,7 +8,7 @@ For more information on Microchip WINC1500 Wi-Fi Module, visit Microchip webpage
 For more information on STM32F249ZI MCU, visit ST webpage: https://www.st.com/en/microcontrollers/stm32f429zi.html
 
 
-![](Doc\Setup.JPG)
+![](Doc/Setup.JPG)
 
 ## Software
 
@@ -29,9 +29,9 @@ More information available:  https://www.st.com/en/evaluation-tools/nucleo-f429z
 
 The ATWINC1500-XPRO extension board allows you to evaluate the Microchip WINC1500 WiFi module.</br>
 More information available: https://www.microchip.com/DevelopmentTools/ProductDetails/ATWINC1500-XPRO
-![](Doc\WINC1500-XPRO.JPG)
+![](Doc/WINC1500-XPRO.JPG)
 
-![](Doc\WIRING.JPG)
+![](Doc/WIRING.JPG)
 
 
 ## Tutorial
